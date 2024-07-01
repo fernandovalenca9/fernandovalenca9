@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu me chamo Fernando</h1>
-<h3 align="center">Sou um apaixonado Profissional de Dados com expertise em Power BI, modelagem de dados, ETL , criação de storytelling nos relatórios e KPIs precisos.</h3>
+<h3 align="center">Sou um  Profissional da área de dados com expertise em ferramentas de analise  como o Power BI, Tableau e Excel  além de  possuir conhecimentos em modelagem de dados, ETL , criação de storytelling nos relatórios e construção de  KPIs precisos.</h3>
 
 - 🌱 Atualmente estou aprendendo **Pyhton , Machine Learning, Série temporais , arvore de decisão.**
 
-- 💬 Me pergunte sobre **Power BI , SQL , Pyhton , Excel , Pentaho PDI , Power Automate, Power Apps**
+- 💬 Me pergunte sobre **Power BI , SQL , Pyhton , Excel , Tableau , Power Automate, Power Apps**
 
 - 📫 Você me encontrará no email **fernandovalenca@outlook.com**
 
